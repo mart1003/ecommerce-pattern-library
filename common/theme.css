@@ -1,0 +1,14 @@
+:root {
+  --color-primary: #262626;
+  --color-primary-light: #666;
+  --color-secondary: #fff;
+  --color-accent: #0072ff;
+
+  --font-primary: "Raleway", arial, sans-serif;
+  --font-secondary: "Montserrat", arial, sans-serif;
+
+}
+
+html {
+  font-family: var(--font-primary)
+}
