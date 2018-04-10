@@ -25,6 +25,21 @@ colors:
     The accent color represents regality, wealth, and the ocean.
 
     The accent color is used for hover states and action states.
+
+icons:
+  icons:
+    facebook-icon-white:
+      background-color: "#000"
+    instagram-icon-white:
+      background-color: "#000"
+    shopping-cart-white:
+      background-color: "#000"
+    twitter-icon-white:
+      background-color: "#000"
+
+brand:
+  logos:
+    background-color: "#000"
 ---
 
-We offer the finest designer hermit crab shells and accessories.
+Designer Shells and vivarium accessories for the discerning crab.

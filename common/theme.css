@@ -1,5 +1,5 @@
 :root {
-  --color-primary: #262626;
+  --color-primary: #000;
   --color-primary-light: #666;
   --color-secondary: #fff;
   --color-accent: #0072ff;
@@ -9,4 +9,14 @@
 
 html {
   font-family: var(--font-primary);
+}
+
+mark {
+  color: var(--color-secondary);
+  background-color: var(--color-accent);
+}
+
+link {
+  color: var(--color-accent);
+  text-decoration: none;
 }

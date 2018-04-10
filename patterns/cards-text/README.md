@@ -1,0 +1,2 @@
+-Used for text elements that DON'T contain images or Products
+-Used to contain paragraph text

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>Checkbox Field</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="handheldfriendly" content="true">
+  <meta name="mobileoptimized" content="240">
+  <link href="../../common/modules.css" rel="stylesheet">
+  <link href="../../common/grid.css" rel="stylesheet">
+  <link href="../../common/type.css" rel="stylesheet">
+  <link href="../../common/theme.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Raleway:400,700" rel="stylesheet">
+  <link href="forms.css" rel="stylesheet">
+</head>
+<body>
+
+  <form class="max-length island" method="post" action="#" novalidate>
+    <div class="error-message error-message-highlighted push island-1-2" role="alert" aria-live="assertive">
+      <h3 class="push-0">
+        <i class="icon i-32"><svg><use xlink:href="images/icons.svg#error" /></svg></i>
+        <span class="icon-label">There are items that require your attention</span>
+      </h3>
+    </div>
+
+    <input class="push-1-2" type="checkbox" id="subscribe">
+    <label class="push-1-2" for="subscribe">Subscribe to the Crabitat newsletter<em class="flag-optional milli normal"> (optional)</em></label>
+
+    <input class="push-1-2" type="checkbox" id="agree" required>
+    <label class="push-1-2" for="agree">I agree to terms and conditions.</label>
+
+  </form>
+
+<script src="https://thomasjbradley.github.io/form-validation-helper/index.js"></script>
+
+</body>
+</html>
