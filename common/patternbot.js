@@ -387,10 +387,10 @@ const patternBotIncludes = function (manifest) {
 
 /** 
  * Patternbot library manifest
- * /Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library
- * @version 1523372610308
+ * /Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges
+ * @version 1523919926927
  */
-const patternManifest_1523372610308 = {
+const patternManifest_1523919926927 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -627,43 +627,48 @@ const patternManifest_1523372610308 = {
   },
   "patternLibFiles": {
     "commonParsable": {
-      "gridifier": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/common/grid.css",
-      "typografier": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/common/type.css",
-      "modulifier": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/common/modules.css",
-      "theme": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/common/theme.css"
+      "gridifier": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/common/grid.css",
+      "typografier": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/common/type.css",
+      "modulifier": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/common/modules.css",
+      "theme": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/common/theme.css"
     },
     "imagesParsable": {
-      "icons": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/images/icons.svg"
+      "icons": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/images/icons.svg"
     },
     "logos": {
-      "sizeLarge": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/images/logo-256.svg",
-      "size64": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/images/logo-64.svg",
-      "size32": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/images/logo-32.svg",
-      "size16": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/images/logo-16.svg",
+      "sizeLarge": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/images/logo-256.svg",
+      "size64": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/images/logo-64.svg",
+      "size32": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/images/logo-32.svg",
+      "size16": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/images/logo-16.svg",
       "size16Local": "logo-16.svg",
       "sizeLargeLocal": "logo-256.svg",
       "size32Local": "logo-32.svg",
       "size64Local": "logo-64.svg"
     },
     "patterns": [
-      "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner",
-      "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/buttons",
-      "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards",
-      "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards-text",
-      "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/footer",
-      "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/forms",
-      "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/navigation"
+      "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/banner",
+      "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/buttons",
+      "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/cards",
+      "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/cards-text",
+      "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/footer",
+      "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/forms",
+      "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/navigation"
     ],
     "pages": [
       {
         "name": "home.html",
         "namePretty": "Home",
-        "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/pages/home.html"
+        "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/pages/home.html"
+      },
+      {
+        "name": "product-detailz-page.html",
+        "namePretty": "Product detailz page",
+        "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/pages/product-detailz-page.html"
       },
       {
         "name": "products-list.html",
         "namePretty": "Products list",
-        "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/pages/products-list.html"
+        "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/pages/products-list.html"
       }
     ]
   },
@@ -671,13 +676,13 @@ const patternManifest_1523372610308 = {
     {
       "name": "banner",
       "namePretty": "Banner",
-      "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner",
+      "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/banner",
       "html": [
         {
           "name": "banner",
           "namePretty": "Banner",
           "filename": "banner",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner/banner.html",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/banner/banner.html",
           "localPath": "patterns/banner/banner.html"
         }
       ],
@@ -686,7 +691,7 @@ const patternManifest_1523372610308 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner/README.md",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/banner/README.md",
           "localPath": "patterns/banner/README.md"
         }
       ],
@@ -695,7 +700,7 @@ const patternManifest_1523372610308 = {
           "name": "banner",
           "namePretty": "Banner",
           "filename": "banner",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner/banner.css",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/banner/banner.css",
           "localPath": "patterns/banner/banner.css"
         }
       ]
@@ -703,13 +708,13 @@ const patternManifest_1523372610308 = {
     {
       "name": "buttons",
       "namePretty": "Buttons",
-      "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/buttons",
+      "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/buttons",
       "html": [
         {
           "name": "buttons",
           "namePretty": "Buttons",
           "filename": "buttons",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/buttons/buttons.html",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/buttons/buttons.html",
           "localPath": "patterns/buttons/buttons.html"
         }
       ],
@@ -718,7 +723,7 @@ const patternManifest_1523372610308 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/buttons/README.md",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/buttons/README.md",
           "localPath": "patterns/buttons/README.md"
         }
       ],
@@ -727,7 +732,7 @@ const patternManifest_1523372610308 = {
           "name": "buttons",
           "namePretty": "Buttons",
           "filename": "buttons",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/buttons/buttons.css",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/buttons/buttons.css",
           "localPath": "patterns/buttons/buttons.css"
         }
       ]
@@ -735,13 +740,13 @@ const patternManifest_1523372610308 = {
     {
       "name": "cards",
       "namePretty": "Cards",
-      "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards",
+      "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/cards",
       "html": [
         {
           "name": "cards",
           "namePretty": "Cards",
           "filename": "cards",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards/cards.html",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/cards/cards.html",
           "localPath": "patterns/cards/cards.html"
         }
       ],
@@ -750,7 +755,7 @@ const patternManifest_1523372610308 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards/README.md",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/cards/README.md",
           "localPath": "patterns/cards/README.md"
         }
       ],
@@ -759,7 +764,7 @@ const patternManifest_1523372610308 = {
           "name": "cards",
           "namePretty": "Cards",
           "filename": "cards",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards/cards.css",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/cards/cards.css",
           "localPath": "patterns/cards/cards.css"
         }
       ]
@@ -767,13 +772,13 @@ const patternManifest_1523372610308 = {
     {
       "name": "cards-text",
       "namePretty": "Cards text",
-      "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards-text",
+      "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/cards-text",
       "html": [
         {
           "name": "cards-text",
           "namePretty": "Cards text",
           "filename": "cards-text",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards-text/cards-text.html",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/cards-text/cards-text.html",
           "localPath": "patterns/cards-text/cards-text.html"
         }
       ],
@@ -782,7 +787,7 @@ const patternManifest_1523372610308 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards-text/README.md",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/cards-text/README.md",
           "localPath": "patterns/cards-text/README.md"
         }
       ],
@@ -791,7 +796,7 @@ const patternManifest_1523372610308 = {
           "name": "cards-text",
           "namePretty": "Cards text",
           "filename": "cards-text",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards-text/cards-text.css",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/cards-text/cards-text.css",
           "localPath": "patterns/cards-text/cards-text.css"
         }
       ]
@@ -799,13 +804,13 @@ const patternManifest_1523372610308 = {
     {
       "name": "footer",
       "namePretty": "Footer",
-      "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/footer",
+      "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/footer",
       "html": [
         {
           "name": "footer",
           "namePretty": "Footer",
           "filename": "footer",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/footer/footer.html",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/footer/footer.html",
           "localPath": "patterns/footer/footer.html"
         }
       ],
@@ -814,7 +819,7 @@ const patternManifest_1523372610308 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/footer/README.md",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/footer/README.md",
           "localPath": "patterns/footer/README.md"
         }
       ],
@@ -823,7 +828,7 @@ const patternManifest_1523372610308 = {
           "name": "footer",
           "namePretty": "Footer",
           "filename": "footer",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/footer/footer.css",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/footer/footer.css",
           "localPath": "patterns/footer/footer.css"
         }
       ]
@@ -831,34 +836,34 @@ const patternManifest_1523372610308 = {
     {
       "name": "forms",
       "namePretty": "Forms",
-      "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/forms",
+      "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/forms",
       "html": [
         {
           "name": "checkbox-field",
           "namePretty": "Checkbox field",
           "filename": "checkbox-field",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/forms/checkbox-field.html",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/forms/checkbox-field.html",
           "localPath": "patterns/forms/checkbox-field.html"
         },
         {
           "name": "dropdown-field",
           "namePretty": "Dropdown field",
           "filename": "dropdown-field",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/forms/dropdown-field.html",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/forms/dropdown-field.html",
           "localPath": "patterns/forms/dropdown-field.html"
         },
         {
           "name": "radial-field",
           "namePretty": "Radial field",
           "filename": "radial-field",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/forms/radial-field.html",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/forms/radial-field.html",
           "localPath": "patterns/forms/radial-field.html"
         },
         {
           "name": "text-field",
           "namePretty": "Text field",
           "filename": "text-field",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/forms/text-field.html",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/forms/text-field.html",
           "localPath": "patterns/forms/text-field.html"
         }
       ],
@@ -867,7 +872,7 @@ const patternManifest_1523372610308 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/forms/README.md",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/forms/README.md",
           "localPath": "patterns/forms/README.md"
         }
       ],
@@ -876,7 +881,7 @@ const patternManifest_1523372610308 = {
           "name": "forms",
           "namePretty": "Forms",
           "filename": "forms",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/forms/forms.css",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/forms/forms.css",
           "localPath": "patterns/forms/forms.css"
         }
       ]
@@ -884,13 +889,13 @@ const patternManifest_1523372610308 = {
     {
       "name": "navigation",
       "namePretty": "Navigation",
-      "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/navigation",
+      "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/navigation",
       "html": [
         {
           "name": "nav",
           "namePretty": "Nav",
           "filename": "nav",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/navigation/nav.html",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/navigation/nav.html",
           "localPath": "patterns/navigation/nav.html"
         }
       ],
@@ -899,7 +904,7 @@ const patternManifest_1523372610308 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/navigation/README.md",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/navigation/README.md",
           "localPath": "patterns/navigation/README.md"
         }
       ],
@@ -908,7 +913,7 @@ const patternManifest_1523372610308 = {
           "name": "nav",
           "namePretty": "Nav",
           "filename": "nav",
-          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/navigation/nav.css",
+          "path": "/Users/evelynhopky/Documents/GitHub/scott/ecommerce-pattern-library-evschanges/patterns/navigation/nav.css",
           "localPath": "patterns/navigation/nav.css"
         }
       ]
@@ -934,5 +939,5 @@ const patternManifest_1523372610308 = {
   }
 };
 
-patternBotIncludes(patternManifest_1523372610308);
+patternBotIncludes(patternManifest_1523919926927);
 }());
