@@ -388,9 +388,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library
- * @version 1523372610308
+ * @version 1523919815487
  */
-const patternManifest_1523372610308 = {
+const patternManifest_1523919815487 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -647,14 +647,21 @@ const patternManifest_1523372610308 = {
     },
     "patterns": [
       "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner",
+      "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner-blank",
       "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/buttons",
       "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards",
+      "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards-info",
       "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards-text",
       "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/footer",
       "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/forms",
       "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/navigation"
     ],
     "pages": [
+      {
+        "name": "form.html",
+        "namePretty": "Form",
+        "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/pages/form.html"
+      },
       {
         "name": "home.html",
         "namePretty": "Home",
@@ -697,6 +704,38 @@ const patternManifest_1523372610308 = {
           "filename": "banner",
           "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner/banner.css",
           "localPath": "patterns/banner/banner.css"
+        }
+      ]
+    },
+    {
+      "name": "banner-blank",
+      "namePretty": "Banner blank",
+      "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner-blank",
+      "html": [
+        {
+          "name": "banner-blank",
+          "namePretty": "Banner blank",
+          "filename": "banner-blank",
+          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner-blank/banner-blank.html",
+          "localPath": "patterns/banner-blank/banner-blank.html"
+        }
+      ],
+      "md": [
+        {
+          "name": "readme",
+          "namePretty": "Readme",
+          "filename": "README",
+          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner-blank/README.md",
+          "localPath": "patterns/banner-blank/README.md"
+        }
+      ],
+      "css": [
+        {
+          "name": "banner-blank",
+          "namePretty": "Banner blank",
+          "filename": "banner-blank",
+          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/banner-blank/banner-blank.css",
+          "localPath": "patterns/banner-blank/banner-blank.css"
         }
       ]
     },
@@ -761,6 +800,30 @@ const patternManifest_1523372610308 = {
           "filename": "cards",
           "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards/cards.css",
           "localPath": "patterns/cards/cards.css"
+        }
+      ]
+    },
+    {
+      "name": "cards-info",
+      "namePretty": "Cards info",
+      "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards-info",
+      "html": [
+        {
+          "name": "cards-info",
+          "namePretty": "Cards info",
+          "filename": "cards-info",
+          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards-info/cards-info.html",
+          "localPath": "patterns/cards-info/cards-info.html"
+        }
+      ],
+      "md": [],
+      "css": [
+        {
+          "name": "cards-info",
+          "namePretty": "Cards info",
+          "filename": "cards-info",
+          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/cards-info/cards-info.css",
+          "localPath": "patterns/cards-info/cards-info.css"
         }
       ]
     },
@@ -934,5 +997,5 @@ const patternManifest_1523372610308 = {
   }
 };
 
-patternBotIncludes(patternManifest_1523372610308);
+patternBotIncludes(patternManifest_1523919815487);
 }());
