@@ -388,9 +388,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library
- * @version 1523919815487
+ * @version 1524526285841
  */
-const patternManifest_1523919815487 = {
+const patternManifest_1524526285841 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -668,6 +668,11 @@ const patternManifest_1523919815487 = {
         "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/pages/home.html"
       },
       {
+        "name": "product-info.html",
+        "namePretty": "Product info",
+        "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/pages/product-info.html"
+      },
+      {
         "name": "products-list.html",
         "namePretty": "Products list",
         "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/pages/products-list.html"
@@ -744,6 +749,20 @@ const patternManifest_1523919815487 = {
       "namePretty": "Buttons",
       "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/buttons",
       "html": [
+        {
+          "name": "buttons-ghost",
+          "namePretty": "Buttons ghost",
+          "filename": "buttons-ghost",
+          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/buttons/buttons-ghost.html",
+          "localPath": "patterns/buttons/buttons-ghost.html"
+        },
+        {
+          "name": "buttons-light",
+          "namePretty": "Buttons light",
+          "filename": "buttons-light",
+          "path": "/Users/scottmartel/Desktop/Graphic Design Second Year/Semester 2/Web Dev 4/ecommerce-pattern-library/patterns/buttons/buttons-light.html",
+          "localPath": "patterns/buttons/buttons-light.html"
+        },
         {
           "name": "buttons",
           "namePretty": "Buttons",
@@ -997,5 +1016,5 @@ const patternManifest_1523919815487 = {
   }
 };
 
-patternBotIncludes(patternManifest_1523919815487);
+patternBotIncludes(patternManifest_1524526285841);
 }());
