@@ -36,6 +36,7 @@ nav a.active {
   width: 32px;
   height: 32px;
   transform: translate(0, 33px);
+  display: none;
 }
 
 .cart .icon {
@@ -50,10 +51,6 @@ nav a.active {
 
 .cart:hover .icon:last-child {
   display: block;
-}
-
-.cart {
-  display: none;
 }
 
 @media only screen and (min-width: 25em) {
@@ -88,9 +85,6 @@ nav a.active {
   header ul .cart-text {
     display: none;
   }
-
-
-}
 
 @media only screen and (min-width: 60em) {
 

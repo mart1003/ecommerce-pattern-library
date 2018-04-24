@@ -7,7 +7,7 @@ body, html {
 }
 
 .hero-image-blank {
-  background: linear-gradient(rgba(0,130,170,0),rgba(0,130,170,1)),  url(../../crabitat-images/blank-hero-image-crab.jpg);
+  background: linear-gradient(rgba(0, 130, 170, 0), rgba(0, 130, 170, 1)), url("../../crabitat-images/blank-hero-image-crab.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -56,14 +56,4 @@ body, html {
   background-color: var(--color-primary);
   color: var(--color-secondary);
   border-color: var(--color-primary);
-}
-
-.logo {
-  width: 8rem;
-}
-
-@media only screen and (min-width: em) {
-
-  height: 80%;
-
 }
